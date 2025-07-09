@@ -1,11 +1,12 @@
-Scripts de Banco de Dados — Profissional e Automatizado
+# Scripts de Banco de Dados — Profissional e Automatizado
 
 Bem-vindo ao repositório **banco-de-dados-scripts**!  
+
 Aqui você encontrará uma coleção precisa, prática e poderosa de **scripts SQL e automações** para bancos de dados, criados para facilitar o dia a dia de administradores, desenvolvedores e analistas que atuam com dados em ambientes de produção, testes ou aprendizado.
 
 ---
 
-Objetivo
+# Objetivo
 
 O objetivo deste repositório é fornecer **soluções reutilizáveis e adaptáveis** para:
 
