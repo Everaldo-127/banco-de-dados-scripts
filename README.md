@@ -1,4 +1,4 @@
-# Scripts de Banco de Dados — Profissional e Automatizado
+# Scripts de Banco de Dados - TODOS
 
 Bem-vindo ao repositório **banco-de-dados-scripts**!  
 
